@@ -67,3 +67,4 @@ Resumindo, o valor de m e b será:
 \\[ b = b + (error) * LR\\]
 
 ![Gradient_descent_2.jpg.png](attachment:Gradient_descent_2.jpg.png)
+hi
