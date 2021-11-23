@@ -1,2 +1,4 @@
 # Regressao_linear_gradiente_descendente
-Repositório para trabalho de Programming 
+\\Programming 2021\\
+Data Science and Business Intelligance
+  Regressão Linear - Gradiente Descendente
